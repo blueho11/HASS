@@ -2,7 +2,7 @@
 
 > A privacy-first, ESP32-based smart home automation system for controlling high-power and low-power home appliances remotely using a mobile application and local smart display.
 
-![HASS Preview](./Project3/project/HomeAutomationSmartSystem)
+![HASS Preview](./project/HomeAutomationSmartSystem)
 
 ---
 
@@ -84,7 +84,7 @@ THEN Turn OFF all devices
 
 ## 🔌 Hardware Connection Diagram
 
-![Circuit Diagram](./Project3/Diagrams/diagram_HASS_bb)
+![Circuit Diagram](./Diagrams/diagram_HASS_bb)
 
 The system is powered by an **ESP32 microcontroller** connected to:
 
