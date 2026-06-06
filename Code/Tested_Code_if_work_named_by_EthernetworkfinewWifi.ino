@@ -38,7 +38,7 @@
 
 
 // ── Firebase / project config ─────────────────────────────────
-#define API_KEY "AIzaSyBIWqQi7JwHLmBGflC_kYJjAzF4CRdOiDY"
+#define API_KEY "public-DB-keys"
 #define DATABASE_URL "https://hass-c6f0e-default-rtdb.firebaseio.com"
 #define BOARD_ID "A7F3C91D2B"
 
