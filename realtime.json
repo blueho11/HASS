@@ -1,0 +1,35 @@
+{
+  "live": {
+    "boards": {
+      "ABC1234": {
+        "state": {
+          "s1": false,
+          "s2": true,
+          "s3": false,
+          "s4": false
+        },
+        "devices": {
+          "s1": "Lamp",
+          "s2": "Fan",
+          "s3": "TV",
+          "s4": "Air Conditioner"
+        },
+        "sensor": {
+          "temperature": 27.5,
+          "humidity": 60.2
+        },
+        "status": {
+          "online": true,
+          "lastHeartbeat": "2026-03-19T22:00:00Z"
+        },
+        "commands": {},
+        "acks": {}
+      }
+    },
+    "users": {
+      "abc123uid": {
+        "pairedBoard": "ABC1234"
+      }
+    }
+  }
+}
